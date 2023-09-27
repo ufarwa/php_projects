@@ -1,0 +1,29 @@
+body{
+    margin-top: 20%;
+}
+
+h1{
+    text-align: center;
+   
+}
+form{
+    padding: 20px;
+    text-align: center; 
+    align-items: center;
+    margin: 0px auto;
+    width: fit-content;
+     background-color: #fefcfc; 
+     box-shadow: 0px 0px 10px rgba(119, 119, 119, 0.2); 
+     margin-bottom: 20px;
+
+}
+form input{
+    font-size: larger;
+}
+input:nth-of-type(2){
+    height: 30px;
+    width: 80px;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+}
